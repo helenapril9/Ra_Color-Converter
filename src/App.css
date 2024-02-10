@@ -1,0 +1,40 @@
+
+body {
+    background-color: white;
+  }
+   
+  
+  .ColorForm {
+    display: block;
+    padding: 10em;
+    text-align: center;
+        
+  }
+  
+  .ColorForm-rgb {
+    display: block;
+    margin-top: 0.5em;
+    padding: 1em;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border: 1px solid lightgray;
+  }
+  
+  .ColorForm {
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+  }
+  
+  .ColorInput {
+    display: block;
+    padding: 1em;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    border: 1px solid lightgray;
+    
+  }
+  
+  
